@@ -1,0 +1,338 @@
+[
+    {
+        "ground_path": "4603553409_5b5f2b63b3.jpg",
+        "latitude": 60.14549,
+        "longitude": 24.9883,
+        "time": "2010-05-13 17:49:28.0",
+        "timezone": "Europe/Helsinki"
+    },
+    {
+        "ground_path": "13648440804_79736524b1.jpg",
+        "latitude": 52.007644,
+        "longitude": 5.338863,
+        "time": "2014-04-05 10:31:10.0",
+        "timezone": "Europe/Amsterdam"
+    },
+    {
+        "ground_path": "3538561306_67291fcb88.jpg",
+        "latitude": 38.076794,
+        "longitude": 12.819457,
+        "time": "2009-05-12 15:42:19.0",
+        "timezone": "Europe/Rome"
+    },
+    {
+        "ground_path": "5959410079_81fdcf56fb.jpg",
+        "latitude": 24.795833,
+        "longitude": 120.961666,
+        "time": "2011-07-17 06:18:26.0",
+        "timezone": "Asia/Taipei"
+    },
+    {
+        "ground_path": "11924815266_20c7dcd6dc.jpg",
+        "latitude": 60.631551,
+        "longitude": 24.857391,
+        "time": "2014-01-12 19:24:29.0",
+        "timezone": "Europe/Helsinki"
+    },
+    {
+        "ground_path": "5926193293_08b080b85b.jpg",
+        "latitude": 49.085397,
+        "longitude": 2.004838,
+        "time": "2011-07-11 09:07:57.0",
+        "timezone": "Europe/Paris"
+    },
+    {
+        "ground_path": "7977132021_633971efd6.jpg",
+        "latitude": 48.856666,
+        "longitude": 2.343333,
+        "time": "2012-09-04 17:43:41.0",
+        "timezone": "Europe/Paris"
+    },
+    {
+        "ground_path": "9584596514_3654ce978f.jpg",
+        "latitude": 51.260222,
+        "longitude": 8.566375,
+        "time": "2013-08-24 12:26:57.0",
+        "timezone": "Europe/Berlin"
+    },
+    {
+        "ground_path": "8888117781_c7bf74a397.jpg",
+        "latitude": 37.6396,
+        "longitude": 21.628819,
+        "time": "2013-05-22 09:43:39.0",
+        "timezone": "Europe/Athens"
+    },
+    {
+        "ground_path": "3933224842_76dca91500.jpg",
+        "latitude": 49.26215,
+        "longitude": -123.07363,
+        "time": "2009-09-18 18:14:13.0",
+        "timezone": "America/Vancouver"
+    },
+    {
+        "ground_path": "9008025153_8b9e7eed68.jpg",
+        "latitude": 49.2775,
+        "longitude": -123.09157,
+        "time": "2013-06-10 08:44:56.0",
+        "timezone": "America/Vancouver"
+    },
+    {
+        "ground_path": "4679120093_a68278d117.jpg",
+        "latitude": 20.724333,
+        "longitude": -156.4475,
+        "time": "2010-06-01 06:36:51.0",
+        "timezone": "Pacific/Honolulu"
+    },
+    {
+        "ground_path": "8550877624_7d2eb64a01.jpg",
+        "latitude": 40.634166,
+        "longitude": -74.800834,
+        "time": "2013-03-03 15:42:51.0",
+        "timezone": "America/New_York"
+    },
+    {
+        "ground_path": "6512581095_93e3c4a5d2.jpg",
+        "latitude": -33.907834,
+        "longitude": 151.1745,
+        "time": "2011-12-15 07:47:14.0",
+        "timezone": "Australia/Sydney"
+    },
+    {
+        "ground_path": "8475878062_62e7e34bc9.jpg",
+        "latitude": -33.855355,
+        "longitude": 151.274799,
+        "time": "2013-02-15 19:59:10.0",
+        "timezone": "Australia/Sydney"
+    },
+    {
+        "ground_path": "8295250263_d928a1e8a7.jpg",
+        "latitude": 52.663333,
+        "longitude": -8.617834,
+        "time": "2012-11-28 10:10:30.0",
+        "timezone": "Europe/Dublin"
+    },
+    {
+        "ground_path": "12066740514_618bcf91e3.jpg",
+        "latitude": 60.194258,
+        "longitude": 24.939941,
+        "time": "2014-01-21 11:54:51.0",
+        "timezone": "Europe/Helsinki"
+    },
+    {
+        "ground_path": "7801363036_5914574ccc.jpg",
+        "latitude": 49.045472,
+        "longitude": 2.034177,
+        "time": "2012-08-17 12:03:41.0",
+        "timezone": "Europe/Paris"
+    },
+    {
+        "ground_path": "2408317664_186be1a789.jpg",
+        "latitude": 49.517519,
+        "longitude": 6.149339,
+        "time": "2008-04-13 18:06:15.0",
+        "timezone": "Europe/Luxembourg"
+    },
+    {
+        "ground_path": "6003724660_2ff49e6b8e.jpg",
+        "latitude": 50.0785,
+        "longitude": -123.0045,
+        "time": "2011-07-30 14:53:11.0",
+        "timezone": "America/Vancouver"
+    },
+    {
+        "ground_path": "12863891864_0b4df39415.jpg",
+        "latitude": 51.07935,
+        "longitude": -1.171639,
+        "time": "2014-03-01 14:34:12.0",
+        "timezone": "Europe/London"
+    },
+    {
+        "ground_path": "8623576631_11e24a4918.jpg",
+        "latitude": 51.506111,
+        "longitude": -0.02,
+        "time": "2013-04-06 13:27:09.0",
+        "timezone": "Europe/London"
+    },
+    {
+        "ground_path": "8498693002_890e073003.jpg",
+        "latitude": 51.5105,
+        "longitude": -0.225334,
+        "time": "2012-11-28 13:23:22.0",
+        "timezone": "Europe/London"
+    },
+    {
+        "ground_path": "9456097745_99698a9bf7.jpg",
+        "latitude": 23.15758,
+        "longitude": 113.195461,
+        "time": "2013-08-07 05:27:19.0",
+        "timezone": "Asia/Shanghai"
+    },
+    {
+        "ground_path": "9645197596_c2de91329b.jpg",
+        "latitude": 51.823666,
+        "longitude": 1.242666,
+        "time": "2013-08-31 16:00:50.0",
+        "timezone": "Europe/London"
+    },
+    {
+        "ground_path": "10114477874_1d54a59a43.jpg",
+        "latitude": 41.119536,
+        "longitude": 29.073963,
+        "time": "2013-10-06 11:52:37.0",
+        "timezone": "Europe/Istanbul"
+    },
+    {
+        "ground_path": "1651252770_48bb82396e.jpg",
+        "latitude": 52.121065,
+        "longitude": 5.034366,
+        "time": "2007-10-19 16:42:04.0",
+        "timezone": "Europe/Amsterdam"
+    },
+    {
+        "ground_path": "7978193080_ce28e22f68.jpg",
+        "latitude": 28.582666,
+        "longitude": -80.653833,
+        "time": "2011-05-16 08:57:55.0",
+        "timezone": "America/New_York"
+    },
+    {
+        "ground_path": "4777069277_e3b6945d05.jpg",
+        "latitude": 61.214548,
+        "longitude": -149.882354,
+        "time": "2010-05-02 03:34:21.0",
+        "timezone": "America/Anchorage"
+    },
+    {
+        "ground_path": "5319127339_663ccb4673.jpg",
+        "latitude": 50.45734,
+        "longitude": 4.448947,
+        "time": "2010-07-16 07:08:25.0",
+        "timezone": "Europe/Brussels"
+    },
+    {
+        "ground_path": "4590870723_d02e081e44.jpg",
+        "latitude": 40.748,
+        "longitude": -73.984167,
+        "time": "2010-05-05 20:21:31.0",
+        "timezone": "America/New_York"
+    },
+    {
+        "ground_path": "3688592375_9d52eaf4b8.jpg",
+        "latitude": 47.60815,
+        "longitude": -122.339393,
+        "time": "2009-07-03 22:03:53.0",
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "ground_path": "6998021178_6f861d5b34.jpg",
+        "latitude": 47.592,
+        "longitude": -122.333,
+        "time": "2012-05-04 21:40:10.0",
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "ground_path": "8261703787_d7ddf5ebf5.jpg",
+        "latitude": 46.48418,
+        "longitude": 30.737782,
+        "time": "2012-08-13 22:17:53.0",
+        "timezone": "Europe/Kyiv"
+    },
+    {
+        "ground_path": "291247773_0242f9bb4c.jpg",
+        "latitude": 37.75163,
+        "longitude": -122.200798,
+        "time": "2006-11-06 21:33:59.0",
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "ground_path": "8316882456_de08dc9daf.jpg",
+        "latitude": 40.758666,
+        "longitude": -73.978666,
+        "time": "2012-12-24 20:21:45.0",
+        "timezone": "America/New_York"
+    },
+    {
+        "ground_path": "10080554396_45944a23b8.jpg",
+        "latitude": 38.880263,
+        "longitude": -77.040214,
+        "time": "2013-10-02 01:44:31.0",
+        "timezone": "America/New_York"
+    },
+    {
+        "ground_path": "5642768819_dfb2dc4b82.jpg",
+        "latitude": 38.966167,
+        "longitude": -77.138667,
+        "time": "2011-04-01 23:36:55.0",
+        "timezone": "America/New_York"
+    },
+    {
+        "ground_path": "7071716529_711b23e92c.jpg",
+        "latitude": 35.6565,
+        "longitude": 139.328,
+        "time": "2012-04-13 05:13:03.0",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "ground_path": "12295875264_fa887476bb.jpg",
+        "latitude": -33.862645,
+        "longitude": 151.207152,
+        "time": "2014-01-25 01:40:24.0",
+        "timezone": "Australia/Sydney"
+    },
+    {
+        "ground_path": "6944793844_6307811b2f.jpg",
+        "latitude": 37.868055,
+        "longitude": -122.259445,
+        "time": "2012-04-18 00:00:27.0",
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "ground_path": "9774035915_63089f20b7.jpg",
+        "latitude": 34.725666,
+        "longitude": 135.500166,
+        "time": "2013-09-16 23:17:13.0",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "ground_path": "4462826242_c304847808.jpg",
+        "latitude": 8.93315,
+        "longitude": -79.54668,
+        "time": "2010-03-22 00:00:01.0",
+        "timezone": "America/Panama"
+    },
+    {
+        "ground_path": "8180177073_55f7f1b16c.jpg",
+        "latitude": 28.349333,
+        "longitude": -81.543834,
+        "time": "2012-10-23 02:05:47.0",
+        "timezone": "America/New_York"
+    },
+    {
+        "ground_path": "4442284917_a7ea405e04.jpg",
+        "latitude": 33.601941,
+        "longitude": -111.995471,
+        "time": "2010-03-18 03:47:20.0",
+        "timezone": "America/Phoenix"
+    },
+    {
+        "ground_path": "7098777147_96d71b659a.jpg",
+        "latitude": 60.171166,
+        "longitude": 24.945333,
+        "time": "2011-12-16 02:13:16.0",
+        "timezone": "Europe/Helsinki"
+    },
+    {
+        "ground_path": "3867350009_01bd86d520.jpg",
+        "latitude": 12.305255,
+        "longitude": 76.65543,
+        "time": "1980-01-06 04:07:09.0",
+        "timezone": "Asia/Kolkata"
+    },
+    {
+        "ground_path": "13337176913_05a28af9d1.jpg",
+        "latitude": 25.048394,
+        "longitude": 121.555091,
+        "time": "2014-03-23 04:48:55.0",
+        "timezone": "Asia/Taipei"
+    }
+]
